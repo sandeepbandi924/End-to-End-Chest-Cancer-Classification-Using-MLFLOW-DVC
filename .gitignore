@@ -6,6 +6,7 @@ __pycache__/
 # C extensions
 *.so
 
+cancer
 # Distribution / packaging
 .Python
 build/
